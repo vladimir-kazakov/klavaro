@@ -3,7 +3,7 @@
 - Ülemine vasak - <kbd>Shift</kbd>
 - Alumine parem - <kbd>Alt Gr</kbd> (or <kbd>Ctrl</kbd> + <kbd>Alt</kbd>)
 - Ülemine parem - <kbd>Shift</kbd> + <kbd>Alt Gr</kbd>
-- <span style="color: red">Punane</span> - sammuta klahv
+- Punane - sammuta klahv
 
 ![Paigutus](images/layout.png)
 
@@ -22,9 +22,9 @@
 - <kbd>š</kbd> = <kbd>ˇ</kbd>, <kbd>s</kbd>
 - <kbd>ž</kbd> = <kbd>ˇ</kbd>, <kbd>z</kbd>
 
-### <kbd>~</kbd> (tilde)
-- <kbd>~</kbd> = <kbd>~</kbd>, (seejärel) <kbd>tühik</kbd>
-- <kbd>õ</kbd> = <kbd>~</kbd>, <kbd>o</kbd>
+### <kbd>\~</kbd> (tilde)
+- <kbd>\~</kbd> = <kbd>\~</kbd>, (seejärel) <kbd>tühik</kbd>
+- <kbd>õ</kbd> = <kbd>\~</kbd>, <kbd>o</kbd>
 
 ### <kbd>´</kbd> (akuut)
 - <kbd>´</kbd> = <kbd>´</kbd>, (seejärel) <kbd>tühik</kbd>
