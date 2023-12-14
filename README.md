@@ -3,8 +3,7 @@ This repository is a collection of keyboard layouts that allow you to write
 in Esperanto in a compatible with your first language way, and without
 installing additional software.
 
-The layouts can be found in a `README.md` file of each layout in the `layouts`
-folder.
+The layouts can be found in a `README.md` file of each layout.
 
 The layouts can be installed using installers published in the `Releases`
 section.
@@ -37,4 +36,5 @@ Another option is to improve existing layouts by making them more convenient
 for writing in the first language and Esperanto. Quite a lot of keys are not
 assigned yet, so it's a chance to come up with something useful.
 
-If you are using Windows, start [here](docs/windows.md).
+You can find more information about how to work with keyboard layouts
+in the project Wiki.
